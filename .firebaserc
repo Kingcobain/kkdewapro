@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "xlite-14cc5"
+  },
+  "targets": {
+    "xlite-14cc5": {
+      "hosting": {
+        "arsill": [
+          "xlite-14cc5"
+        ]
+      }
+    }
   }
 }
