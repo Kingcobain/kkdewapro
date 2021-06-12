@@ -7,10 +7,8 @@ import designIcon from "./images/design.svg"
 import codeIcon from "./images/code.svg"
 
 // Social Icon
-import githubIcon from "./images/github.svg"
-import codepenIcon from "./images/codepen.svg"
-import dribbbleIcon from "./images/dribbble.svg"
 import instagramIcon from "./images/instagram.svg"
+import behanceIcon from "./images/behance.png"
 
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
@@ -31,7 +29,7 @@ export default {
     "LLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
 
   //Contact Email
-  contactEmail: "hello@chetanverma.com",
+  contactEmail: "arsilq@yahoo.com",
 
   // End Header Details -----------------------
 
@@ -173,19 +171,13 @@ export default {
 
   contactSubHeading: "Let's create your next experience together",
   social: [
-    // Add Or Remove The Link Accordingly
-    { img: githubIcon, url: "https://github.com/chetanverma16" },
     {
-      img: codepenIcon,
-      url: "https://www.codepen.com/",
-    },
-    {
-      img: dribbbleIcon,
-      url: "https://dribbble.com/chetanverma",
+      img: behanceIcon,
+      url: "https://www.behance.net/arsil1",
     },
     {
       img: instagramIcon,
-      url: "https://www.instagram.com/",
+      url: "https://www.instagram.com/arsil__",
     },
   ],
 
