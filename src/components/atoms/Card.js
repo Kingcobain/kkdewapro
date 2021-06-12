@@ -1,6 +1,6 @@
 import React from "react"
 
-const Card = ({ heading, paragraph, imgUrl, projectLink }) => {
+const Card = ({ heading, paragraph, imgUrl, videoSrcURL, projectLink }) => {
   return (
     <div
       className="card"
@@ -11,18 +11,30 @@ const Card = ({ heading, paragraph, imgUrl, projectLink }) => {
           ")",
       }}
     >
-      <div className="content">
-        <h1 className="header">{heading}</h1>
-        <p className="text">{paragraph}</p>
-        <a
-          href={projectLink ? projectLink : "#"}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="btn"
+      {videoSrcURL ? (
+        <video
+          loop
+          autoPlay
+          style={{ objectFit: "cover" }}
+          height="100%"
+          width="100%"
         >
-          Explore
-        </a>
-      </div>
+          <source src={videoSrcURL} type="video/webm" />
+        </video>
+      ) : (
+        <div className="content" style={{}}>
+          <h1 className="header">{heading}</h1>
+          <p className="text">{paragraph}</p>
+          <a
+            href={projectLink ? projectLink : "#"}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="btn"
+          >
+            Explore
+          </a>
+        </div>
+      )}
     </div>
   )
 }
