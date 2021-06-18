@@ -22,7 +22,7 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "Arsil Qodryantha",
+  name: "Rafi Uletta Giovanni",
   headerTagline: [
     //Line 1 For Header
     "Building digital",
@@ -33,10 +33,10 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "Hello, my name is Arsil Qodryantha, I am on my journey to become a professional 3d artist mainly using Blender, i do unity as well and a little mobile programming",
+    "Hello, my name is Rafi Uletta Giovanni, I am on my journey to become a professional 3d artist mainly using Blender, i do unity as well and a little mobile programming",
 
   //Contact Email
-  contactEmail: "arsilq@yahoo.com",
+  contactEmail: "rafiuletta@gmail.com",
 
   // End Header Details -----------------------
 
