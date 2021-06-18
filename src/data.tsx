@@ -27,13 +27,13 @@ export default {
     //Line 1 For Header
     "Building digital",
     //Line 2 For Header
-    "products, brands,",
+    "arts, apps,",
     //Line 3 For Header
     "and experience",
   ],
   //   Header Paragraph
   headerParagraph:
-    "LLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+    "Hello, my name is Arsil Qodryantha, I am on my journey to become a professional 3d artist mainly using Blender, i do unity as well and a little mobile programming",
 
   //Contact Email
   contactEmail: "arsilq@yahoo.com",
@@ -113,11 +113,7 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
-  aboutParaTwo:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-  aboutParaThree:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "Im on my journey to be a professional 3d Artist, i live in Sumenep, Jawa Timur, Indonesia. Beside making stuff in 3d, I gathered my first 3d experience in first semester of collegue using blender because it's open source application but even in my opinion it's really powerful at the same time.  I also make some apps using unity, java, and react native.  I am a linux enthusiast, I have used Ubuntu for two years, and now been using Fedora as my daily driver since.",
   aboutImage:
     "https://images.unsplash.com/photo-1519713958759-6254243c4a53?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
 
