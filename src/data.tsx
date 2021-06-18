@@ -78,15 +78,15 @@ export default {
       //Project URL - Add Your Project Url Here
       url: "http://chetanverma.com/",
     },
-    {
-      title: "Project Five", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+    //{
+      //title: "Project Five", //Project Title - Add Your Project Title Here
+      //para:
+       // "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      videoSrc: workVid1,
+      //videoSrc: workVid1,
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
-    },
+      //url: "http://chetanverma.com/",
+    //},
     {
       title: "Project Six", //Project Title - Add Your Project Title Here
       para:
